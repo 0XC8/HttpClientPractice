@@ -13,7 +13,7 @@ HttpClient采集项目最佳实践，该项目采用`.Net Core`开发，记录�
  - [HttpClient请求Web API注意事项](http://www.cnblogs.com/seriawei/archive/2018/07/18/9328998.html)
  - [Call a Web API From a .NET Client](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
  - [HttpClient throws TaskCanceledException on timeout](https://github.com/dotnet/corefx/issues/20296)
- - []()
+ - [IHttpClientFactory启动http实例](https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.1)
 
 ## 待办
  - 阅读源码 [dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider)
